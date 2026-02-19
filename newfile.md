@@ -2,4 +2,5 @@ This is random text to show you how to create and add a new file. Please dont fo
 
 And welcome!
 
+This is Skylar's new edit. Beep boop. Added one line here
 I am going to add some lines here.
